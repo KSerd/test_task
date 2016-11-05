@@ -1,0 +1,13 @@
+{
+  "name": "test_task",
+  "version": "1.0.0",
+  "description": "Test task",
+  "main": "app.js",
+  "author": "Serd",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "mysql": "^2.12.0"
+  }
+}
